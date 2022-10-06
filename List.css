@@ -1,0 +1,115 @@
+
+.UiFixedMenu {
+    background-color: #282c34;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    width: 100%;
+    
+  
+  }
+  
+  div.uiMain
+  {
+    padding-top:20px;
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 10vh;
+    
+  }
+  
+   label{
+    font-weight: bold;
+    padding: 12px 12px 12px 0 ;
+    display: inline-block;
+    font-size: medium;
+  }
+  .field input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid  #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+   div button
+  {
+    margin: 12px 32px 20px 200px;
+    min-height:10%;
+    font-weight: bold;
+    padding: 12px 20px 12px 25px ;
+    display: inline-block;
+    font-size: medium;
+    background-color:blue;
+    border-radius: 5px;
+    
+  
+  }
+  
+  button:hover
+  {
+     background-color: green;
+  }
+  
+  
+  .ContactListHeader
+  {
+    margin-left: 15px;
+    font-size: medium;
+    margin: 12px 12px 20px 500px;
+    width: 10%;
+    padding: 12px 20px 12px 12px;
+    border: 1px solid  #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    text-align: center;
+    font-weight:bold;
+    background-color:#ccc;
+  }
+  
+  .header{
+    font-weight: bold;
+  
+  }
+  
+  .trash
+  {
+    
+    padding-left: 95%;
+    color:red;
+    width: 10%;
+    padding-top: 30px;
+  }
+
+  .Imgs
+  {
+    float:left;
+    width: 5%;
+   padding-right: 12px;
+   }
+  
+  
+  .items
+  {
+    
+    margin-left: 15px;
+    padding: 12px 12px 12px 12px;
+    border: 1px solid  #ccc;
+    border-radius: 10px;
+    resize: vertical;
+    height: 70px;
+  }
+  .contact
+  {
+    float:left;
+    width: 80%;
+  }
+
+
+
+ 
